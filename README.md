@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kailyn✨
 - 👀 I’m interested in bioinformatics 🧬
-- 🌱 I’m currently learning to analyze the genomes Crotalus molossus using bash scripts 
+- 🌱 I’m currently learning to analyze the genomes of Crotalus molossus using bash scripts 
 - 💞️ I’m looking to collaborate on helping others over the bioinformatics learning curve 👩🏾‍🏫
 - 📫 How to reach me: kharris7099@gmail.com
 - 😄 Pronouns: she/her
